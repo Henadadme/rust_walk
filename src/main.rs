@@ -1,3 +1,5 @@
+mod dataType;
+
 fn main() {
-    println!("Hello, world!");
+    dataType::run()
 }

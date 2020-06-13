@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71749d58-007b-4780-a17e-846f4134efcb" name="Default Changelist" comment="" />
+    <list default="true" id="71749d58-007b-4780-a17e-846f4134efcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/print.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,16 +44,47 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dHHZe7IENd43hzniiKeiYTPyo6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/Emmanuel/IdeaProjects/rustwalk/src/print.rs" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/Emmanuel/IdeaProjects/rustwalk/src/variable.rs" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run rustwalk" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package rustwalk --bin rustwalk" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run rustwalk" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -44,8 +99,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592075155312</updated>
-      <workItem from="1592075167118" duration="3000" />
+      <workItem from="1592075167118" duration="3073000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="672" height="204" key="GridCell.Tab.0.bottom" timestamp="1592079333901">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="204" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592079333901" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592075564671" />
+    <state width="672" height="204" key="GridCell.Tab.0.center" timestamp="1592079333898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="204" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592079333898" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592075564670" />
+    <state width="672" height="204" key="GridCell.Tab.0.left" timestamp="1592079333896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="204" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592079333896" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592075564670" />
+    <state width="672" height="204" key="GridCell.Tab.0.right" timestamp="1592079333899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="204" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592079333899" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592075564671" />
   </component>
 </project>
